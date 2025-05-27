@@ -1,6 +1,6 @@
 ---
 title: "Photo Gallery"
-lightbox: TRUE
+lightbox: true
 toc: false
 about: 
   template: jolla
@@ -10,118 +10,118 @@ about:
 
 **California**
 
-![Rock Wren](DSCN0521.jpeg){width="50%"}
+![Rock Wren](DSCN0521.jpeg){width="100%" group="California"}
 
-![Red-breasted Nuthatch](DSCN9716.jpeg){width="50%"}
+![Red-breasted Nuthatch](DSCN9716.jpeg){width="100%" group="California"}
 
-![Willow Flycatcher](DSCN6457.jpeg){width="50%"}
+![Willow Flycatcher](DSCN6457.jpeg){width="100%" group="California"}
 
-![Warbling Vireo](WarblingVireo.JPEG){width="50%"}
+![Warbling Vireo](WarblingVireo.JPEG){width="100%" group="California"}
 
-![American Bittern](AmericanBittern.JPEG){width="50%"}
+![American Bittern](AmericanBittern.JPEG){width="100%" group="California"}
 
-![Bell's Sparrow](BellsSparrow.JPEG){width="50%"}
+![Bell's Sparrow](BellsSparrow.JPEG){width="100%" group="California"}
 
-![Black-crowned Night Heron](Black-crownedNightHeron.JPEG){width="50%"}
+![Black-crowned Night Heron](Black-crownedNightHeron.JPEG){width="100%" group="California"}
 
-![Black-throated Sparrow](Black-throatedSparrow.JPEG){width="50%"}
+![Black-throated Sparrow](Black-throatedSparrow.JPEG){width="100%" group="California"}
 
-![Black Turnstone](BlackTurnstone.JPEG){width="50%"}
+![Black Turnstone](BlackTurnstone.JPEG){width="100%" group="California"}
 
-![Bobolink](Bobolink.JPEG){width="50%"}
+![Bobolink](Bobolink.JPEG){width="100%" group="California"}
 
-![Canyon Wren](CanyonWren.JPEG){width="50%"}
+![Canyon Wren](CanyonWren.JPEG){width="100%" group="California"}
 
-![Hammond's Flycatcher](HammondsFlycatcher.JPEG){width="50%"}
+![Hammond's Flycatcher](HammondsFlycatcher.JPEG){width="100%" group="California"}
 
-![Loggerhead Shrike](LoggerheadShrike.JPEG){width="50%"}
+![Loggerhead Shrike](LoggerheadShrike.JPEG){width="100%" group="California"}
 
-![Mountain Bluebird](MountainBluebird.JPEG){width="50%"}
+![Mountain Bluebird](MountainBluebird.JPEG){width="100%" group="California"}
 
-![Peregrine Falcon](DSCN2398.jpeg){width="50%"}
+![Peregrine Falcon](DSCN2398.jpeg){width="100%" group="California"}
 
-![Peregrine Falcons](PeregrineFalcons.JPEG){width="50%"}
+![Peregrine Falcons](PeregrineFalcons.JPEG){width="100%" group="California"}
 
-![Phainopepla](Phainopepla.JPEG){width="50%"}
+![Phainopepla](Phainopepla.JPEG){width="100%" group="California"}
 
-![Sage Thrasher](SageThrasher.JPEG){width="50%"}
+![Sage Thrasher](SageThrasher.JPEG){width="100%" group="California"}
 
-![Savannah Sparrow](SavannahSparrow.JPEG){width="50%"}
+![Savannah Sparrow](SavannahSparrow.JPEG){width="100%" group="California"}
 
-![Semipalmated Sandpiper](SemipalmatedSandpiper.JPEG){width="50%"}
+![Semipalmated Sandpiper](SemipalmatedSandpiper.JPEG){width="100%" group="California"}
 
-![Vermilion Flycatcher](VermilionFlycatcher.JPEG){width="50%"}
+![Vermilion Flycatcher](VermilionFlycatcher.JPEG){width="100%" group="California"}
 
-![Yellow Warbler](YellowWarbler.JPEG){width="50%"}
+![Yellow Warbler](YellowWarbler.JPEG){width="100%" group="California"}
 
 **Australia 2025**
 
-![Rufous Whistler](DSCN2475.jpeg){width="50%"}
+![Rufous Whistler](DSCN2475.jpeg){width="100%" group="Australia 2025"}
 
-![Golden-headed Cisticola](Golden-headedCisticola.JPEG){width="50%"}
+![Golden-headed Cisticola](Golden-headedCisticola.JPEG){width="100%" group="Australia 2025"}
 
-![Sulphur-crested Cockatoos](Sulphur-crestedCockatoo.jpeg){width="50%"}
+![Sulphur-crested Cockatoos](Sulphur-crestedCockatoo.jpeg){width="100%" group="Australia 2025"}
 
-![Superb Fairywren](SuperbFairywren.jpeg){width="50%"}
+![Superb Fairywren](SuperbFairywren.jpeg){width="100%" group="Australia 2025"}
 
-![Variegated Fairywren](VariegatedFairywren.jpeg){width="50%"}
+![Variegated Fairywren](VariegatedFairywren.jpeg){width="100%" group="Australia 2025"}
 
-![Willie Wagtail](WillieWagtail.jpeg){width="50%"}
+![Willie Wagtail](WillieWagtail.jpeg){width="100%" group="Australia 2025"}
 
-![Zebra Finch](ZebraFinch.jpeg){width="50%"}
+![Zebra Finch](ZebraFinch.jpeg){width="100%" group="Australia 2025"}
 
-![Sacred Kingfisher](SacredKingfisher.jpeg){width="50%"}
+![Sacred Kingfisher](SacredKingfisher.jpeg){width="100%" group="Australia 2025"}
 
-![Pacific Koel](PacificKoel.jpeg){width="50%"}
+![Pacific Koel](PacificKoel.jpeg){width="100%" group="Australia 2025"}
 
-![Nordmann's Greenshank](NordmannsGreenshank.jpeg){width="50%"}
+![Nordmann's Greenshank](NordmannsGreenshank.jpeg){width="100%" group="Australia 2025"}
 
-![Brown Noddies](DSCN0330.jpeg){width="50%"}
+![Brown Noddies](DSCN0330.jpeg){width="100%" group="Australia 2025"}
 
-![Black-faced Cuckooshrike](Black-facedCuckooshrike.jpeg){width="50%"}
+![Black-faced Cuckooshrike](Black-facedCuckooshrike.jpeg){width="100%" group="Australia 2025"}
 
 **New Zealand 2025**
 
-![South Island Wren](DSCN1256.jpeg){width="50%"}
+![South Island Wren](DSCN1256.jpeg){width="100%" group="Australia 2025"}
 
-![Double-banded Plover](Double-bandedPlover.JPEG){width="50%"}
+![Double-banded Plover](Double-bandedPlover.JPEG){width="100%" group="Australia 2025"}
 
-![Australasian Gannet](AustralasianGannet.JPEG){width="50%"}
+![Australasian Gannet](AustralasianGannet.JPEG){width="100%" group="Australia 2025"}
 
-![New Zealand Fantail](NewZealandFantail.JPEG){width="50%"}
+![New Zealand Fantail](NewZealandFantail.JPEG){width="100%" group="Australia 2025"}
 
-![New Zealand Kaka](NewZealandKaka.JPEG){width="50%"}
+![New Zealand Kaka](NewZealandKaka.JPEG){width="100%" group="Australia 2025"}
 
-![Northern Royal Albatross](NorthernRoyalAlbatross.JPEG){width="50%"}
+![Northern Royal Albatross](NorthernRoyalAlbatross.JPEG){width="100%" group="Australia 2025"}
 
-![White-capped Albatross](White-cappedAlbatross.JPEG){width="50%"}
+![White-capped Albatross](White-cappedAlbatross.JPEG){width="100%" group="Australia 2025"}
 
-![Tomtit](Tomtit.JPEG){width="50%"}
+![Tomtit](Tomtit.JPEG){width="100%" group="Australia 2025"}
 
-![White-faced Heron](White-facedHeron.JPEG){width="50%"}
+![White-faced Heron](White-facedHeron.JPEG){width="100%" group="Australia 2025"}
 
-![Shore Plover](ShorePlover.JPEG){width="50%"}
+![Shore Plover](ShorePlover.JPEG){width="100%" group="Australia 2025"}
 
-![Shore Plover](ShorePlover2.JPEG){width="50%"}
+![Shore Plover](ShorePlover2.JPEG){width="100%" group="Australia 2025"}
 
 **Texas 2025**
 
-![Brown-crested Flycatcher](Brown-crestedFlycatcher.JPEG){width="50%"}
+![Brown-crested Flycatcher](Brown-crestedFlycatcher.JPEG){width="100%" group="Texas 2025"}
 
-![Boat-tailed Grackle](Boat-tailedGrackle.JPEG){width="50%"}
+![Boat-tailed Grackle](Boat-tailedGrackle.JPEG){width="100%" group="Texas 2025"}
 
-![Seaside Sparrow](SeasideSparrow.JPEG){width="50%"}
+![Seaside Sparrow](SeasideSparrow.JPEG){width="100%" group="Texas 2025"}
 
-![Black-throated Green Warbler](Black-throatedGreenWarbler.JPEG){width="50%"}
+![Black-throated Green Warbler](Black-throatedGreenWarbler.JPEG){width="100%" group="Texas 2025"}
 
-![Bay-breasted Warbler](Bay-breastedWarbler.JPEG){width="50%"}
+![Bay-breasted Warbler](Bay-breastedWarbler.JPEG){width="100%" group="Texas 2025"}
 
-![Blackburnian Warbler](BlackburnianWarbler.JPEG){width="50%"}
+![Blackburnian Warbler](BlackburnianWarbler.JPEG){width="100%" group="Texas 2025"}
 
-![Eastern Wood-Pewee](EasternWood-Pewee.JPEG){width="50%"}
+![Eastern Wood-Pewee](EasternWood-Pewee.JPEG){width="100%" group="Texas 2025"}
 
-![Painted Bunting](PaintedBunting.JPEG){width="50%"}
+![Painted Bunting](PaintedBunting.JPEG){width="100%" group="Texas 2025"}
 
-![Eastern Screech-Owl](EasternScreech-Owl.JPEG){width="50%"}
+![Eastern Screech-Owl](EasternScreech-Owl.JPEG){width="100%" group="Texas 2025"}
 
-![Pectoral Sandpiper](PectoralSandpiper.JPEG){width="50%"}
+![Pectoral Sandpiper](PectoralSandpiper.JPEG){width="100%" group="Texas 2025"}
